@@ -13,7 +13,7 @@ Personal Computer Turbo C Compiler
 14.	Choose the file and verify the go back protocol operation.
 
 # PROGRAM:
-
+```
 #include<stdio.h> void main()
 {
 
@@ -47,13 +47,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
+```
 OUTPUT:
-
- 
-
-
-
-
+<img width="410" height="377" alt="image" src="https://github.com/user-attachments/assets/8dd2d961-9b1f-4fbb-9c35-2b3297513f04" />
 
 
 # RESULT:
